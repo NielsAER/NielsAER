@@ -18,4 +18,4 @@ As an ethical hacker and the founder of a firm that performs web application pen
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 # 📈 Stats:
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=qubexd&show_icons=true&count_private=true&theme=dark" width="350"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NielsAER&show_icons=true&count_private=true&theme=dark" width="350"></a>
