@@ -1,4 +1,4 @@
-# 🏄‍♂️ Magnificent
+# 🏄‍♂️ Cheisee
 
 **`Ethical Hacker (Pentester/CEO/Creator)`**
 
