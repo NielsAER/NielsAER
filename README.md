@@ -1,6 +1,6 @@
-# 🏄‍♂️ Cheisee
+# 🏄‍♂️ Niels
 
-**`Ethical Hacker (Pentester/CEO/Creator)`**
+**`Ethical Hacker (Pentester/CEO)`**
 
 As an ethical hacker and the founder of a firm that performs web application penetration testing, I assist companies in maintaining their security by elucidating the concepts of cybersecurity and cybercrime. Additionally, I mentor young entrepreneurs, guiding them to reach their full potential.
 
